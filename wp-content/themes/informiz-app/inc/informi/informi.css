@@ -1,0 +1,21 @@
+.iz-icon {
+	padding-right: 0.1em;
+	font-size: 22px!important;
+	line-height: 22px!important;
+	font-weight: 600;
+	color: #E8CCBA;
+	border-bottom: none !important;
+
+	
+}
+
+.action-container {
+	padding-top: 3px;
+	padding-right: 0.3em;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content:flex-start;
+	color: #336699;
+	display: block; 
+	text-align: left; 
+}

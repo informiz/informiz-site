@@ -1,0 +1,4 @@
+[27-Dec-2016 15:14:47 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/niraamit/public_html/wp-includes/registration-functions.php on line 7
+[03-Jan-2017 06:42:03 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/niraamit/public_html/wp-includes/registration-functions.php on line 7
+[20-Jan-2017 21:19:41 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/niraamit/public_html/wp-includes/registration-functions.php on line 7
+[09-Mar-2017 14:56:26 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/niraamit/public_html/wp-includes/rss-functions.php on line 8

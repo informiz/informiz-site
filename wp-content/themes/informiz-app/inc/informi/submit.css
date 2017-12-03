@@ -1,0 +1,26 @@
+label {
+	display: inline-block !important;
+	margin-left: 5px;
+}
+
+.iz_helpIcon, .iz_mediaHelp {
+	display: inline-block;
+	font-size:0.8em;
+	line-height:0.8em;
+	width:0.8em;
+	height:0.8em;
+	padding:3px;
+	border-radius:50%;
+	color:#fff;
+	text-align:center;
+	background:#f78c40;
+	vertical-align:25%;
+}
+
+form legend {
+	color: #f78c40;
+}
+
+form span {
+	color: #ff0000;
+}

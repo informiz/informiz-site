@@ -1,0 +1,79 @@
+.circle-text {
+	width:2.2em;
+	border-bottom: none !important;
+}
+
+.circle-text div {
+	float:left;
+	width:100%;
+	padding-top:50%;
+	font-size:0.9em;
+	line-height:0.9em;
+	margin-top:-0.45em;
+	text-align:center;
+}
+
+.color-legend {
+	height: 1em;
+	width:100%;
+	background: -webkit-linear-gradient(left, #FDE8D9, #F78C40); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #FDE8D9, #F78C40); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #FDE8D9, #F78C40); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #FDE8D9, #F78C40); /* Standard syntax (must be last) */
+	vertical-align: middle;
+	display:table;
+	font-size: 0.6em;
+	margin-bottom: 2px;
+}
+
+.color-legend > div {
+	display: table-cell;
+	vertical-align: middle;
+	color: #666;
+}
+
+.color-legend-label {
+	width: auto; 
+	font-size: 1.25em;
+	text-align: center;
+	padding-left:0.5em;
+	padding-right:0.5em;
+}
+
+.conf-text {
+	display:block;
+	font-size: 0.7em;
+	text-align:left !important;
+}
+
+.rank-container {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+	color: #336699;
+}
+
+.rank-rating {
+	vertical-align: middle;
+	margin-bottom: 5px;
+}
+
+.rank-text-container {
+	float: left;
+	display: table;
+	vertical-align: middle;
+	margin-bottom: 5px;
+	margin-right: 3px;
+}
+
+.rank-text {
+	padding-right: 0.3em;
+	font-size: 15px!important;
+	line-height: 22px!important;
+	font-weight: 600;
+	color: #555555;
+
+	display: block; 
+	position: relative; 
+	text-align: center;
+}
